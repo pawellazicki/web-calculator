@@ -1,1 +1,2 @@
-# web-calculator
+# App deployed to heroku
+https://pawel-calculator.herokuapp.com
